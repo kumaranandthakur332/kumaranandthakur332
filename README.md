@@ -5,7 +5,7 @@
  </h1>
  
  <h3 align="center">
-     An Android Developer from India
+     An Java Developer And Android Developer from India
  </h3>
  
  
@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=AnandKumar332&label=Profile%20views&color=0e75b6&style=flat" alt="AnandKumar332" />
 </p>
 
- 🔭 I’m currently pursuing Bachelor of Technology in Computer science 👨🏻‍💻 | CSE'25🎓
+ 🔭 I’m Recent complete Bachelor of Technology in Computer science 👨🏻‍💻 | CSE'25🎓
 
 
   <p align="center">
